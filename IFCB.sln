@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IFCBacquire", "IFCB.vcxproj", "{F1B1E920-DC46-4D54-B467-F9659B184A38}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		AccessKloehn|Win32 = AccessKloehn|Win32
+		AccessKloehn|x64 = AccessKloehn|x64
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		IFCB8_ benchtop|Win32 = IFCB8_ benchtop|Win32
+		IFCB8_ benchtop|x64 = IFCB8_ benchtop|x64
+		IFCB8_benchtop|Win32 = IFCB8_benchtop|Win32
+		IFCB8_benchtop|x64 = IFCB8_benchtop|x64
+		Release_Secure|Win32 = Release_Secure|Win32
+		Release_Secure|x64 = Release_Secure|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.AccessKloehn|Win32.ActiveCfg = AccessKloehn|Win32
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.AccessKloehn|Win32.Build.0 = AccessKloehn|Win32
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.AccessKloehn|x64.ActiveCfg = AccessKloehn|x64
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.AccessKloehn|x64.Build.0 = AccessKloehn|x64
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.Debug|Win32.Build.0 = Debug|Win32
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.Debug|x64.ActiveCfg = Debug|x64
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.Debug|x64.Build.0 = Debug|x64
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.IFCB8_ benchtop|Win32.ActiveCfg = IFCB8_ benchtop|Win32
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.IFCB8_ benchtop|Win32.Build.0 = IFCB8_ benchtop|Win32
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.IFCB8_ benchtop|x64.ActiveCfg = IFCB8_ benchtop|x64
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.IFCB8_ benchtop|x64.Build.0 = IFCB8_ benchtop|x64
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.IFCB8_benchtop|Win32.ActiveCfg = IFCB8_benchtop|Win32
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.IFCB8_benchtop|Win32.Build.0 = IFCB8_benchtop|Win32
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.IFCB8_benchtop|x64.ActiveCfg = IFCB8_benchtop|x64
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.IFCB8_benchtop|x64.Build.0 = IFCB8_benchtop|x64
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.Release_Secure|Win32.ActiveCfg = Release_Secure|Win32
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.Release_Secure|Win32.Build.0 = Release_Secure|Win32
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.Release_Secure|x64.ActiveCfg = Release_Secure|x64
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.Release_Secure|x64.Build.0 = Release_Secure|x64
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.Release|Win32.ActiveCfg = Release|Win32
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.Release|Win32.Build.0 = Release|Win32
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.Release|x64.ActiveCfg = Release|x64
+		{F1B1E920-DC46-4D54-B467-F9659B184A38}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Libraries">
+      <UniqueIdentifier>{2506d55b-a78a-4fd7-ab86-d9db2a595732}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CPlot">
+      <UniqueIdentifier>{c9dbe202-9dea-4859-b46f-0b9aca913fbf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\Analysis.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\CameraTab.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ControlTabs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Daq_niusb6009.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\DaqMcc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Diagnostics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ExpertTab.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\FileIo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\FluidsKloehn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\FluidsTab.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\FluidsWHOI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\FocusMirrorControl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\GraphTab.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\HardwareTab.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Ifcb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\IfcbDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Process.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Tab.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\tcp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ZoomDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\CPlot Sources\Axis.cpp">
+      <Filter>CPlot</Filter>
+    </ClCompile>
+    <ClCompile Include="source\CPlot Sources\AxisSettings.cpp">
+      <Filter>CPlot</Filter>
+    </ClCompile>
+    <ClCompile Include="source\CPlot Sources\Chart.cpp">
+      <Filter>CPlot</Filter>
+    </ClCompile>
+    <ClCompile Include="source\CPlot Sources\ChartData.cpp">
+      <Filter>CPlot</Filter>
+    </ClCompile>
+    <ClCompile Include="source\CPlot Sources\ColorControl.cpp">
+      <Filter>CPlot</Filter>
+    </ClCompile>
+    <ClCompile Include="source\CPlot Sources\CPlotUtility.cpp">
+      <Filter>CPlot</Filter>
+    </ClCompile>
+    <ClCompile Include="source\CPlot Sources\DataSettingsDialog.cpp">
+      <Filter>CPlot</Filter>
+    </ClCompile>
+    <ClCompile Include="source\CPlot Sources\ImageChart.cpp">
+      <Filter>CPlot</Filter>
+    </ClCompile>
+    <ClCompile Include="source\CPlot Sources\ImagePalette.cpp">
+      <Filter>CPlot</Filter>
+    </ClCompile>
+    <ClCompile Include="source\CPlot Sources\ImagePlotSettingsDialog.cpp">
+      <Filter>CPlot</Filter>
+    </ClCompile>
+    <ClCompile Include="source\CPlot Sources\PlotSettingsDialog.cpp">
+      <Filter>CPlot</Filter>
+    </ClCompile>
+    <ClCompile Include="source\CPlot Sources\XYChart.cpp">
+      <Filter>CPlot</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\Analysis.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\CameraTab.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ControlTabs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Daq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Daq_niusb6009.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\DaqMcc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Diagnostics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ExpertTab.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\FileIo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Fluids.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\FluidsKloehn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\FluidsTab.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\FluidsWHOI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\FocusMotorControl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\GraphTab.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\HardwareTab.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Ifcb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\IfcbDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\NIDAQmx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Process.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Tab.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\tcp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\uni_defines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\uni_notification.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\uni_types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\UniControl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\UniTransform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ZoomDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\CPlot Sources\Axis.h">
+      <Filter>CPlot</Filter>
+    </ClInclude>
+    <ClInclude Include="source\CPlot Sources\AxisSettings.h">
+      <Filter>CPlot</Filter>
+    </ClInclude>
+    <ClInclude Include="source\CPlot Sources\Chart.h">
+      <Filter>CPlot</Filter>
+    </ClInclude>
+    <ClInclude Include="source\CPlot Sources\ChartData.h">
+      <Filter>CPlot</Filter>
+    </ClInclude>
+    <ClInclude Include="source\CPlot Sources\ColorControl.h">
+      <Filter>CPlot</Filter>
+    </ClInclude>
+    <ClInclude Include="source\CPlot Sources\CPlotResource.h">
+      <Filter>CPlot</Filter>
+    </ClInclude>
+    <ClInclude Include="source\CPlot Sources\CPlotUtility.h">
+      <Filter>CPlot</Filter>
+    </ClInclude>
+    <ClInclude Include="source\CPlot Sources\DataSettingsDialog.h">
+      <Filter>CPlot</Filter>
+    </ClInclude>
+    <ClInclude Include="source\CPlot Sources\ImagePalette.h">
+      <Filter>CPlot</Filter>
+    </ClInclude>
+    <ClInclude Include="source\CPlot Sources\ImagePlotSettingsDialog.h">
+      <Filter>CPlot</Filter>
+    </ClInclude>
+    <ClInclude Include="source\CPlot Sources\PlotSettingsDialog.h">
+      <Filter>CPlot</Filter>
+    </ClInclude>
+    <ClInclude Include="source\sig-gen-api-v1.0.0-x32\sig_gen_api.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="source\res\Ifcb.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="source\Ifcb.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+    <ResourceCompile Include="source\CPlot Sources\CPlotResources.rc">
+      <Filter>CPlot</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="source\res\Ifcb.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="source\version.in" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="source\NIDAQmx.lib">
+      <Filter>Libraries</Filter>
+    </Library>
+    <Library Include="source\UniControl.lib">
+      <Filter>Libraries</Filter>
+    </Library>
+    <Library Include="source\UniTransform.lib">
+      <Filter>Libraries</Filter>
+    </Library>
+    <Library Include="source\VCACCES.lib">
+      <Filter>Libraries</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="source\UniControl.dll">
+      <Filter>Libraries</Filter>
+    </CustomBuild>
+    <CustomBuild Include="source\UniControl_P.dll">
+      <Filter>Libraries</Filter>
+    </CustomBuild>
+    <CustomBuild Include="source\UniTransform.dll">
+      <Filter>Libraries</Filter>
+    </CustomBuild>
+  </ItemGroup>
+</Project>
